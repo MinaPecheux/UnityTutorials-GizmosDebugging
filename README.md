@@ -4,7 +4,7 @@
 
 How can we use Unity built-in editor features to create our own tools and improve the debugging or editing of our game data? Let's discover more in this video/text tutorial: "How to do visual debugging and editing using gizmos in less than 30 minutes" :)
 
-You can read it in text format [on Medium](https://medium.com/p/how-to-use-math-noises-for-procedural-generation-in-unity-c-44902a21d8e), or watch it [on Youtube](https://www.youtube.com/watch?v=q3X98YKf0I8).
+You can read it in text format [on Medium](https://mina-pecheux.medium.com/how-to-do-visual-debugging-editing-using-gizmos-in-unity-c-e3b8ea711b30), or watch it [on Youtube](https://www.youtube.com/watch?v=q3X98YKf0I8).
 
 ![thumbnail](imgs/thumbnail.png)
 
